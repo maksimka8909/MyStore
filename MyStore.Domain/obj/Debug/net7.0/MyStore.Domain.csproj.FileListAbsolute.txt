@@ -1,0 +1,12 @@
+F:\RiderProjects\MyStore\MyStore.Domain\bin\Debug\net7.0\MyStore.Domain.deps.json
+F:\RiderProjects\MyStore\MyStore.Domain\bin\Debug\net7.0\MyStore.Domain.dll
+F:\RiderProjects\MyStore\MyStore.Domain\bin\Debug\net7.0\MyStore.Domain.pdb
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\MyStore.Domain.csproj.AssemblyReference.cache
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\MyStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\MyStore.Domain.AssemblyInfoInputs.cache
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\MyStore.Domain.AssemblyInfo.cs
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\MyStore.Domain.csproj.CoreCompileInputs.cache
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\MyStore.Domain.dll
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\refint\MyStore.Domain.dll
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\MyStore.Domain.pdb
+F:\RiderProjects\MyStore\MyStore.Domain\obj\Debug\net7.0\ref\MyStore.Domain.dll

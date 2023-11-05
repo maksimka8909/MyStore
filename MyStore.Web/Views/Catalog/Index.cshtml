@@ -1,0 +1,10 @@
+@model MyStore.ViewModels.ListOfItemsViewModel
+
+@{
+    ViewData["Title"] = "Каталог";
+}
+
+@foreach (var product in Model.CatalogProducts)
+{
+    <p>@product.Id - @product.Name - @product.Price</p>
+}

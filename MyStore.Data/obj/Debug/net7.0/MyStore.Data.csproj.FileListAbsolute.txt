@@ -1,0 +1,15 @@
+F:\RiderProjects\MyStore\MyStore.Data\bin\Debug\net7.0\MyStore.Data.deps.json
+F:\RiderProjects\MyStore\MyStore.Data\bin\Debug\net7.0\MyStore.Data.dll
+F:\RiderProjects\MyStore\MyStore.Data\bin\Debug\net7.0\MyStore.Data.pdb
+F:\RiderProjects\MyStore\MyStore.Data\bin\Debug\net7.0\MyStore.Domain.dll
+F:\RiderProjects\MyStore\MyStore.Data\bin\Debug\net7.0\MyStore.Domain.pdb
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.csproj.AssemblyReference.cache
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.AssemblyInfoInputs.cache
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.AssemblyInfo.cs
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.csproj.CoreCompileInputs.cache
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.csproj.CopyComplete
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.dll
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\refint\MyStore.Data.dll
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\MyStore.Data.pdb
+F:\RiderProjects\MyStore\MyStore.Data\obj\Debug\net7.0\ref\MyStore.Data.dll

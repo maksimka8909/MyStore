@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxVsH/zXWhg9HQUHVOkPKyVme25J/qUTP1CWO4oqTqercjrDMjxyADCQkFJqk+ib56esMljJcegb9TNKZnoRVQ==",
+  "success": true,
+  "projectFilePath": "F:\\RiderProjects\\MyStore\\MyStore.Domain\\MyStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fobos\\.nuget\\packages\\jetbrains.annotations\\2022.3.1\\jetbrains.annotations.2022.3.1.nupkg.sha512",
+    "C:\\Users\\Fobos\\.nuget\\packages\\x.pagedlist\\9.0.0-prerelease\\x.pagedlist.9.0.0-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}
